@@ -22,10 +22,10 @@ Tutorial's type: lecture style + hands-on
     * Sources of missing information: node attributes, node features, edges
     * Models’ taxonomy: trained vs. untrained, robustness vs. imputation
     * Main existing techniques
-  * **Multimodal graph learning** (20 min)
+  * Multimodal graph learning (20 min)
     * Integrating multimodal information in the graph learning pipeline
     * Notable applications: recommendation and healthcare
-  * **Missing information in multimodal graph machine learning** (30 min)
+  * Missing information in multimodal graph machine learning (30 min)
     * How to define missing multimodal information on graphs
     * Imputing multimodal information on graphs, or using graphs to impute missing multimodal information?
     * Leveraging the item-item co-purchase graph for recommendation
