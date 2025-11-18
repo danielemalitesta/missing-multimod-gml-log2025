@@ -55,6 +55,6 @@ _Professor at Université Paris-Saclay, CentraleSupélec, Inria (Gif-sur-Yvette,
 
 Email: [fragkiskos.malliaros@centralesupelec.fr](mailto:fragkiskos.malliaros@centralesupelec.fr)
 
-Website: [https://fragkiskos.me](https://fragkiskos.me)
+Website: [https://fragkiskosm.github.io/](https://fragkiskosm.github.io/)
 
 <img src="https://media.licdn.com/dms/image/v2/C4E03AQFCLZOLp2dFvQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1650112432140?e=2147483647&v=beta&t=vQGyoD3ZJDVUwSlw1ge0rzyqzMEoEYYoH_kjrBjNG7Q" alt="Claudio Pomo"  width="200"/>
