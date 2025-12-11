@@ -31,9 +31,10 @@ Graph data with multimodal information is ubiquitous, from users posting content
     * Models’ taxonomy: impute on or through graphs, robustness vs. imputation, node similarity vs bipartite graphs
     * Dealing with missing modalities in multimodal recommendation
     * Handling missing multimodal information in healthcare
-* **Hands-on session: tackling missing multimodal information in personalized recommendation and healthcare** (50 min)
+* **Break** (5 min)
+* **Hands-on session: tackling missing multimodal information in personalized recommendation and healthcare** (45 min)
   * An imputation pipeline for missing multimodal information in recommendation (25 min)
-  * Multimodal processing and training with missing information in healthcare (25 min)
+  * Multimodal processing and training with missing information in healthcare (20 min)
 * **Closing remarks, current challenges, and future directions** (10 min)
 * **Q&A session** (10 min)
 
